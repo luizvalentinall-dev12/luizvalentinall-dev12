@@ -1,14 +1,14 @@
 
 ### Ola tudo bom ? 👋, Eu sou  [Gugaa](https://lvalentin.com.br)! 😁
 
-## Esse é meu perfil Proficional do git da Allstrategy.
+## Esse é meu perfil Profissional do git da Allstrategy.
 
 Sou formado em Ciencia da Computação, atualmente atuo como desenvolvedor na empresa Allstrategy. Aprendizado e aprimoramento de conhecimentos fazem parte do meu dia a dia.
 
 
 - 🔭 Atuamente estou trabalhando no SSO da Allstrategy para criar um sistema de login unico para os produtos da empresa
 - 💬 Gosto muito de aprender coisas novas e gosto muito de musica.
-- 📫 Meu email proficional é luiz.valentin@allstrategy.com.br
+- 📫 Meu email profissional é luiz.valentin@allstrategy.com.br
 - 😄 Gosto muito de café
 - ⚡ Meu [Linkdin](https://www.linkedin.com/in/luiz-valter-valentin1999/)
 
