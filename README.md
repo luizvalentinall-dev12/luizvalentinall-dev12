@@ -6,7 +6,7 @@
 Sou formado em Ciencia da Computação, atualmente atuo como desenvolvedor na empresa Allstrategy. Aprendizado e aprimoramento de conhecimentos fazem parte do meu dia a dia.
 
 
-- 🔭 Atuamente estou trabalhando no SSO da Allstrategy para criar um sistema de login unico para os produtos da empresa
+- 🔭 Atuamente estou trabalhando na migração de zend para laravel dos produtos da Allstrategy.
 - 💬 Gosto muito de aprender coisas novas e gosto muito de musica.
 - 📫 Meu email profissional é luiz.valentin@allstrategy.com.br
 - 😄 Gosto muito de café
